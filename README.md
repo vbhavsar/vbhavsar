@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vbhavsar
 - 👀 I’m interested in open source software for distributed systems.
-- 🌱 I’m currently learning and contributing to various python and go libraries
+- 🌱 I’m currently learning and contributing to rust projects
 
 <!---
 vbhavsar/vbhavsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
